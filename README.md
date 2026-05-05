@@ -5,13 +5,6 @@
 Me chamo Luan Geremias, tenho 16 anos e sou natural do Ceará. Atualmente, estou fazendo o curso Técnico em Informática na EP Dr. Napoleão. Sou apaixonado por tecnologia e estou sempre buscando aprender coisas novas, principalmente na área de desenvolvimento. Tenho interesse em programação, design de interfaces e criação de projetos que possam resolver problemas reais. Estou em constante evolução, desenvolvendo minhas habilidades técnicas e também competências como trabalho em equipe, comunicação e organização.
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/luangeremias/">
-        <img 
-            alt="LinkDin" 
-            title="Olhe meu Linkdin" 
-            src="https://custom-icon-badges.demolab.com/badge/-Olhe%20Meu%20Linkdin-blue?style=for-the-badge&logo=workflow&logoColor=white"
-        />
-    </a>
     <a href="https://github.com/LuanGeremias?tab=repositories">
         <img 
             alt="Repositorios" 
@@ -26,6 +19,13 @@ Me chamo Luan Geremias, tenho 16 anos e sou natural do Ceará. Atualmente, estou
             src="https://custom-icon-badges.demolab.com/badge/-Portfólio-gold?style=for-the-badge&logo=package&logoColor=black"
         />
     </a> 
+    <a href="https://www.linkedin.com/in/luangeremias/">
+        <img 
+            alt="LinkDin" 
+            title="Olhe meu Linkdin" 
+            src="https://custom-icon-badges.demolab.com/badge/-Olhe%20Meu%20Linkdin-blue?style=for-the-badge&logo=workflow&logoColor=white"
+        />
+    </a>
 </p>
 
 ---
