@@ -9,7 +9,7 @@ Me chamo Luan Geremias, tenho 16 anos e sou natural do Ceará. Atualmente, estou
         <img 
             alt="LinkDin" 
             title="Olhe meu Linkdin" 
-            src="https://custom-icon-badges.demolab.com/badge/-Olhe%20Meu%20Linkdin%20Action-blue?style=for-the-badge&logo=workflow&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/badge/-Olhe%20Meu%20Linkdin-blue?style=for-the-badge&logo=workflow&logoColor=white"
         />
     </a>
     <a href="https://github.com/LuanGeremias?tab=repositories">
@@ -19,16 +19,13 @@ Me chamo Luan Geremias, tenho 16 anos e sou natural do Ceará. Atualmente, estou
             src="https://custom-icon-badges.demolab.com/badge/-Meus%20Repositórios-blue?style=for-the-badge&logoColor=white&logo=repo"
         />
     </a> 
+    <a href="https://luangeremias.github.io/projeto-portifolio/">
         <img 
-            alt="Email" 
-            title="Meu email" 
-            src="https://custom-icon-badges.demolab.com/badge/-geremiadluan@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"
+            alt="Portfólio" 
+            title="Meu portfólio" 
+            src="https://custom-icon-badges.demolab.com/badge/-Portfólio-gold?style=for-the-badge&logo=package&logoColor=black"
         />
-        <img 
-            alt="Número" 
-            title="Meu número" 
-            src="https://custom-icon-badges.demolab.com/badge/-88%2098103%207639-orange?style=for-the-badge&logo=phone&logoColor=white"
-        />
+    </a> 
 </p>
 
 ---
