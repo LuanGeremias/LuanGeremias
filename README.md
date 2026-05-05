@@ -92,6 +92,3 @@ Me chamo Luan Geremias, tenho 16 anos e sou natural do Ceará. Atualmente, estou
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuanGeremias&show_icons=true)
