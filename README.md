@@ -9,30 +9,26 @@ Me chamo Luan Geremias, tenho 16 anos e sou natural do Ceará. Atualmente, estou
         <img 
             alt="LinkDin" 
             title="Olhe meu Linkdin" 
-            src="https://custom-icon-badges.demolab.com/badge/-Use%20GitHub%20Action-blue?style=for-the-badge&logo=workflow&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/badge/-Olhe%20Meu%20Linkdin%20Action-blue?style=for-the-badge&logo=workflow&logoColor=white"
         />
     </a>
     <a href="https://github.com/LuanGeremias?tab=repositories">
         <img 
             alt="Repositorios" 
             title="Repositórios do Github" 
-            src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"
+            src="https://custom-icon-badges.demolab.com/badge/-Meus%20Repositórios-blue?style=for-the-badge&logoColor=white&logo=repo"
         />
     </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            alt="Email" 
+            title="Meu email" 
+            src="https://custom-icon-badges.demolab.com/badge/-geremiadluan@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"
         />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            alt="Número" 
+            title="Meu número" 
+            src="https://custom-icon-badges.demolab.com/badge/-88%2098103%207639-orange?style=for-the-badge&logo=phone&logoColor=white"
         />
-    </a>
 </p>
 
 ---
